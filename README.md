@@ -16,7 +16,7 @@ Conformément à la section 3 du cahier des charges, **le frontend ne communique
 ## 2. Installation et lancement
 
 ```powershell
-git clone https://github.com/<votre-compte>/driveeasy-frontend.git
+git clone https://github.com/omarmejri-bot/driveeasy-frontend.git
 cd driveeasy-frontend
 npm install
 npm start
